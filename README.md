@@ -1,31 +1,38 @@
 # Daniil Serhieiev
 
-**AI-assisted workflows & automation**
+**Kaufmännische Praxis · AI-assisted workflows & digital operations**
 
-Three projects built around practical tasks: producing editable presentations,
-maintaining a learning workflow, and processing data for a personal assistant.
-Each repository explains the project-specific work, AI assistance and the
-third-party components it uses.
+I build workflows around practical tasks: finding a document, checking a handoff,
+producing editable files, or deciding what a learning system should do next.
+The projects below include public evidence you can inspect in your browser.
 
 ## Selected projects
 
-| Project | What it demonstrates | Start here |
+| Project | The practical problem | Open the evidence |
 | --- | --- | --- |
-| **[Editable presentation pipeline](https://github.com/DaniilSerhi/editable-presentation-pipeline)** | Structured content to editable PowerPoint, PDF and speaker scripts, with export checks and protection for manually edited files. | [View the sample slides](https://github.com/DaniilSerhi/editable-presentation-pipeline/blob/main/examples/output/demo.pdf) |
-| **[UniPrep](https://github.com/DaniilSerhi/UniPrep)** | Learning workflows with traceable instruction evidence, persistent state, assessment checks and Obsidian extensions. | [Run the offline demo](https://github.com/DaniilSerhi/UniPrep#run-the-offline-demo) |
-| **[FitnesHermes](https://github.com/DaniilSerhi/fitneshermes)** | A coaching workflow built on Hermes Agent; the public demo shows nutrition parsing, date validation and reproducible calculations. | [Inspect the synthetic report](https://github.com/DaniilSerhi/fitneshermes/blob/main/examples/expected/report.md) |
+| **[Effective PDF](https://github.com/DaniilSerhi/effective_pdf)** | Find PDF content through Markdown, trace results to source pages, and detect stale indexes or changed documents. | **[Search the demo archive →](https://daniilserhi.github.io/effective_pdf/)** |
+| **[MoveNLearn](https://github.com/DaniilSerhi/movenlearn-system-showcase)** | Turn a structured enquiry into an explicit human-review task; connect research, content and document production. | [Explore the intake handoff →](https://daniilserhi.github.io/movenlearn-system-showcase/) |
+| **[Editable Presentation Pipeline](https://github.com/DaniilSerhi/editable-presentation-pipeline)** | Produce editable PowerPoint files, PDFs and speaker scripts while checking export quality. | [Compare designs and speaker scripts →](https://daniilserhi.github.io/editable-presentation-pipeline/) |
+| **[UniPrep](https://github.com/DaniilSerhi/UniPrep)** | Keep instruction evidence, assessment and the next learning step consistent across sessions. | [Follow a complete learning path →](https://daniilserhi.github.io/UniPrep/) |
+| **[FitnesHermes](https://github.com/DaniilSerhi/fitneshermes)** | Validate nutrition and activity data before a personal assistant uses them. | [Inspect missing and stale data →](https://daniilserhi.github.io/fitneshermes/) |
 
-## How the work is presented
+## My part in the work
 
-My contribution is defining requirements, designing workflows, directing
-implementation with AI coding assistants, and reviewing the results. The
-repositories distinguish these responsibilities from manual code authorship,
-the host AI runtime and external libraries.
+I define the problem and requirements, design the workflow, direct implementation
+with AI coding assistants, and review the outputs. Each repository identifies
+its own implementation, external libraries and the limits of its public demo.
 
-The public editions use synthetic examples and include verification
-instructions. Their demos require no personal records or model account.
-Each README states what the demo covers and what remains outside its scope.
+My background combines commercial work in real estate administration with
+website QA and business-development work during an Erasmus+ internship in Valencia.
+That practical context shapes the projects: explicit inputs, traceable decisions
+and outputs another person can check.
+
+All public examples use synthetic data. The case studies distinguish recorded
+demo results from live integrations; personal study, customer and health records
+are excluded.
 
 ## Additional experiments
 
-- [Learning Apps · Markt- und Preistheorie](https://github.com/DaniilSerhi/learning-apps) — a small German economics learning prototype with quiz formats, SVG diagrams and browser-local demo results.
+[Learning Apps · Markt- und Preistheorie](https://github.com/DaniilSerhi/learning-apps)
+is a small German economics learning prototype with quiz formats, diagrams and
+browser-local demo results. [Open the app →](https://daniilserhi.github.io/learning-apps/)
