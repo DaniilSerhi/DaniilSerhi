@@ -25,3 +25,7 @@ the host AI runtime and external libraries.
 The public editions use synthetic examples and include verification
 instructions. Their demos require no personal records or model account.
 Each README states what the demo covers and what remains outside its scope.
+
+## Additional experiments
+
+- [Learning Apps · Markt- und Preistheorie](https://github.com/DaniilSerhi/learning-apps) — a small German economics learning prototype with quiz formats, SVG diagrams and browser-local demo results.
